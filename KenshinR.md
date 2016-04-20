@@ -1,5 +1,6 @@
-** Michael's Bio
+## Michael's Bio
 Michael
 Paris, France
 Sushi
 Rugby
+Blue
